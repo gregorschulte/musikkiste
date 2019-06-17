@@ -2,6 +2,7 @@
 
 # Musikkiste
 diy mp3 player for kids
+![musikkiste](images/musikkiste.jpg?raw=true "Musikkiste")
 ## Overview
 This is a simple diy mp3 player (not only) for kids. Is is based on the DFrobot Mp3 Mini module wich has everything onboard. No programming required. 
 
