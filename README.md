@@ -16,6 +16,11 @@ This is a simple diy mp3 player (not only) for kids. Is is based on the DFrobot 
 * Cables
 * pin headers
 
+|item           |amount       |description|
+|---            |---          |---|
+|mp3 module     |1            | https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299  |
+|speaker        |1            |3 watt speaker for arduino / raspberry pi   |
+
 
 # Files
 
