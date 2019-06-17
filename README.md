@@ -1,3 +1,5 @@
+! This is work in progress - check for updates soon - june 17th 2019 !
+
 # Musikkiste
 diy mp3 player for kids
 ## Overview
