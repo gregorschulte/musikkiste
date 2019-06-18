@@ -31,3 +31,11 @@ Volume adjustments are done with the potentiometer. It is possible to use the bu
 The Order in which the files are copied onto the microSD card defines which button they are assigned to. i.e. the first file is Segement 1.
 
 ## Instructions
+To prepare the PCB disconnect 7 lines on as show here:
+![pcb](images/musikkiste_pcbOnly_Steckplatine.png)
+
+![pcb](images/musikkiste_pcbSolder_Steckplatine.png)
+
+![pcb](images/musikkiste_pcbExternal_Steckplatine.png)
+
+
