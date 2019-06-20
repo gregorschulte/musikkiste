@@ -21,9 +21,9 @@ Volume adjustments are done with the potentiometer. It is possible to use the bu
 |housing        |1            |any box                                             |
 |jumperwires    |20           |dupond 1pin female for buttons / powersource / potentiometer                     |
 |copper wire    |1            |for ground connection between the buttons           |
-|pin header     |2            |1x10  for buttons                                   |
-|pin header     |2            |1X8 male for mp3 Module out                         |
-|pin header     |2            |1x8 female for mp3 Module                           |
+|pin header     |2            |1 x 10  for buttons                                 |
+|pin header     |2            |1 X 8 male for mp3 Module out                       |
+|pin header     |2            |1 x 8 female for mp3 Module                         |
 |microSD card   |1            |fat16/fat32 up to 32GB                              |
 
 
