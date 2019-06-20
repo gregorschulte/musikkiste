@@ -1,10 +1,8 @@
-! This is work in progress - check for updates soon - june 17th 2019 !
-
 # Musikkiste
 diy mp3 player for kids
 ![musikkiste](images/musikkiste.jpg)
 ## Overview
-This is a simple diy mp3 player (not only) for kids. Is is based on the DFrobot Mp3 Mini module wich has everything onboard. No programming required. 
+This is a simple diy mp3 player (not only) for kids. Is is based on the DFrobot Mp3 Mini module wich has everything onboard. No programming required. It is a very basic build. If all parts are available it should not take longer than an afternoon to build. 
 
 Volume adjustments are done with the potentiometer. It is possible to use the buttons on the mp3 Module. I will max the volume after powerloss though. 
 
@@ -25,6 +23,7 @@ Volume adjustments are done with the potentiometer. It is possible to use the bu
 |pin header     |2            |1 X 8 male for mp3 Module out                       |
 |pin header     |2            |1 x 8 female for mp3 Module                         |
 |microSD card   |1            |fat16/fat32 up to 32GB                              |
+|box            |1            |any box will do, wood, 3dprinted,...                |
 
 
 
@@ -41,4 +40,9 @@ PCB with all parts soldered in (as seen from above).
 PCB with the mp3 module plugged in and external components (as seen from above).
 ![pcb](images/musikkiste_pcbExternal_Steckplatine.png)
 
+## Tools required
+- soldering iron
+- utility knive
+- drill 
+- 
 
