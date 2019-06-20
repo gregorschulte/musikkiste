@@ -19,9 +19,10 @@ Volume adjustments are done with the potentiometer. It is possible to use the bu
 |power source   |1            |usb powerbank or 4.5V battery compartment           |
 |potentiometer  |1            |1OO Ohm linear                                      |
 |housing        |1            |any box                                             |
-|jumperwires    |14           |dupond 2pin female for buttons                      |
-|wires          |1            |dupond 3pin female for potentiometer                | 
-|pin header     |1            |2x10                                                |
+|jumperwires    |20           |dupond 1pin female for buttons / powersource / potentiometer                     |
+|copper wire    |1            |for ground connection between the buttons           |
+|pin header     |2            |1x10  for buttons                                   |
+|pin header     |2            |1X8 male for mp3 Module out                         |
 |pin header     |2            |1x8 female for mp3 Module                           |
 |microSD card   |1            |fat16/fat32 up to 32GB                              |
 
@@ -31,11 +32,13 @@ Volume adjustments are done with the potentiometer. It is possible to use the bu
 The Order in which the files are copied onto the microSD card defines which button they are assigned to. i.e. the first file is Segement 1.
 
 ## Instructions
-To prepare the PCB disconnect 7 lines on as show here (as seen from top):
+To prepare the PCB disconnect 7 lines on as show here (as seen from above):
 ![pcb](images/musikkiste_pcbOnly_Steckplatine.png)
 
+PCB with all parts soldered in
 ![pcb](images/musikkiste_pcbSolder_Steckplatine.png)
 
+PCB with the mp3 module plugged in
 ![pcb](images/musikkiste_pcbExternal_Steckplatine.png)
 
 
