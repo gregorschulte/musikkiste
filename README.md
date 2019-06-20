@@ -32,13 +32,13 @@ Volume adjustments are done with the potentiometer. It is possible to use the bu
 The Order in which the files are copied onto the microSD card defines which button they are assigned to. i.e. the first file is Segement 1.
 
 ## Instructions
-To prepare the PCB disconnect 7 lines on as show here (as seen from above):
+To prepare the PCB disconnect 7 lines on as show here (as seen from above).
 ![pcb](images/musikkiste_pcbOnly_Steckplatine.png)
 
-PCB with all parts soldered in
+PCB with all parts soldered in (as seen from above).
 ![pcb](images/musikkiste_pcbSolder_Steckplatine.png)
 
-PCB with the mp3 module plugged in
+PCB with the mp3 module plugged in and external components (as seen from above).
 ![pcb](images/musikkiste_pcbExternal_Steckplatine.png)
 
 
