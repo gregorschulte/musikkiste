@@ -21,11 +21,29 @@ Volume adjustments are done with the potentiometer. It is possible to use the bu
 |copper wire    |1            |for ground connection between the buttons           |
 |pin header     |2            |1 x 10  for buttons                                 |
 |pin header     |2            |1 X 8 male for mp3 Module out                       |
-|pin header     |2            |1 x 8 female for mp3 Module                         |
+|pin header     |2            |1 x 8 female for mp3 Module (optional)              |
 |microSD card   |1            |fat16/fat32 up to 32GB                              |
 |box            |1            |any box will do, wood, 3dprinted,...                |
 
+## Soldering
+The pin headers for the mp3 module are not really needed, but for some reason i like the idea of beeing able to replace it without soldering. 
+### Pin headers
+Not all output pins of the mp3 module are used in this build. But it is just more convinient to solder on strip of pin headers. 
+### Resistors
+As with the pin headers, not all resistors are needed. Just for expandability they are just included. 
 
+## Plug in Module
+Plug in with the text readable, tf-slot facing south.
+
+## Power cable assembly
+
+## Speaker cable assembly
+
+## Plug in cables
+- Power cable assembly into VCC
+- Power cable assembly GND into GND on the left
+- Speaker assembly red into SPK_1
+- Speaker assembly black into SPK_2
 
 ## Copy Files
 The Order in which the files are copied onto the microSD card defines which button they are assigned to. i.e. the first file is Segement 1.
