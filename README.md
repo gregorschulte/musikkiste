@@ -54,15 +54,31 @@ NN
 |Power cable red      |VCC      |MODULE   |BUSY     |NC                       |
 |NC                   |RX       |MODULE   |USB-     |NC                       |
 |NC                   |TX       |MODULE   |USB+     |NC                       |
-|NC                   |DAC_R    |MODULE   |ADKEY_2  |Look up in next Table    |
-|NC                   |DAC_l    |MODULE   |ADKEY_1  |Look up in next Table    |
+|NC                   |DAC_R    |MODULE   |ADKEY_2  |Button # 05              |
+|NC                   |DAC_l    |MODULE   |ADKEY_1  |Button # 01              |
 |Speaker cable red    |SPK_1    |MODULE   |IO_2     |NC                       |
 |Power cable red      |GND      |MODULE   |GND      |Butten cable black       |
 |Speaker cable black  |SPK_2    |MODULE   |IO_1     |NC                       |
 
+|ADKEY #              |Resitor    |Button #   |
+|---                  |---        |---        |
+|1                    |33k        |Play/Pause |
+|1                    |9.1k       |04         |
+|1                    |6.2k       |03         |
+|1                    |3k         |02         |
+|2                    |200k       |14         |
+|2                    |100k       |13         |
+|2                    |51k        |12         |
+|2                    |33k        |11         |
+|2                    |24k        |10         |
+|2                    |15k        |09         |
+|2                    |9.1k       |08         |
+|2                    |6.2k       |07         |
+|2                    |3k         |06         |
 
-Use this 
-https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
+
+
+Use the pinmap: https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299 as reference. 
 (NC = Not connected)
 
 ## Copy Files
