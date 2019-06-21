@@ -49,16 +49,18 @@ NN
 - Speaker assembly red into SPK_1
 - Speaker assembly black into SPK_2
 
-|Cable              |Pin      |MODULE   |PIN      |Cable                    |
-|---                |---      |---      |---      |---                      |
-|Power cable red    |VCC      |MODULE   |BUSY     |NC                       |
-|NC                 |RX       |MODULE   |USB-     |NC                       |
-|NC                 |TX       |MODULE   |USB+     |NC                       |
-|NC                 |DAC_R    |MODULE   |ADKEY_2  |Look up in next Table    |
-|NC                 |DAC_l    |MODULE   |ADKEY_1  |Look up in next Table    |
-|Speaker cable red  |SPK_1    |MODULE   |IO_2     |NC                       |
-|Power cable red    |GND      |MODULE   |GND      |Butten cable black       |
-|Speaker cable black|SPK_2    |MODULE   |IO_1     |NC                       |
+|Cable                |Pin      |MODULE   |PIN      |Cable                    |
+|---                  |---      |---      |---      |---                      |
+|Power cable red      |VCC      |MODULE   |BUSY     |NC                       |
+|NC                   |RX       |MODULE   |USB-     |NC                       |
+|NC                   |TX       |MODULE   |USB+     |NC                       |
+|NC                   |DAC_R    |MODULE   |ADKEY_2  |Look up in next Table    |
+|NC                   |DAC_l    |MODULE   |ADKEY_1  |Look up in next Table    |
+|Speaker cable red    |SPK_1    |MODULE   |IO_2     |NC                       |
+|Power cable red      |GND      |MODULE   |GND      |Butten cable black       |
+|Speaker cable black  |SPK_2    |MODULE   |IO_1     |NC                       |
+
+
 Use this 
 https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
 (NC = Not connected)
