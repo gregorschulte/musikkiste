@@ -96,7 +96,7 @@ PCB with the mp3 module plugged in and external components (as seen from above).
 
 ## Tools required
 - soldering iron
+- wire cutter
 - utility knive
 - drill 
-- 
 
