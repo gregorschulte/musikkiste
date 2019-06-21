@@ -27,8 +27,10 @@ Volume adjustments are done with the potentiometer. It is possible to use the bu
 
 ## Soldering
 The pin headers for the mp3 module are not really needed, but for some reason i like the idea of beeing able to replace it without soldering. 
+
 ### Pin headers
 Not all output pins of the mp3 module are used in this build. But it is just more convinient to solder on strip of pin headers. 
+
 ### Resistors
 As with the pin headers, not all resistors are needed. Just for expandability they are just included. 
 
@@ -36,14 +38,30 @@ As with the pin headers, not all resistors are needed. Just for expandability th
 Plug in with the text readable, tf-slot facing south.
 
 ## Power cable assembly
+NN
 
 ## Speaker cable assembly
+NN
 
 ## Plug in cables
 - Power cable assembly into VCC
 - Power cable assembly GND into GND on the left
 - Speaker assembly red into SPK_1
 - Speaker assembly black into SPK_2
+
+|Cable              |Pin      |MODULE   |PIN      |Cable                    |
+|---                |---      |---      |---      |---                      |
+|Power cable red    |VCC      |MODULE   |BUSY     |NC                       |
+|NC                 |RX       |MODULE   |USB-     |NC                       |
+|NC                 |TX       |MODULE   |USB+     |NC                       |
+|NC                 |DAC_R    |MODULE   |ADKEY_2  |Look up in next Table    |
+|NC                 |DAC_l    |MODULE   |ADKEY_1  |Look up in next Table    |
+|Speaker cable red  |SPK_1    |MODULE   |IO_2     |NC                       |
+|Power cable red    |GND      |MODULE   |GND      |Butten cable black       |
+|Speaker cable black|SPK_2    |MODULE   |IO_1     |NC                       |
+Use this 
+https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
+(NC = Not connected)
 
 ## Copy Files
 The Order in which the files are copied onto the microSD card defines which button they are assigned to. i.e. the first file is Segement 1.
