@@ -8,6 +8,7 @@ Volume adjustments are done with the potentiometer. It is possible to use the bu
 
 
 ## Parts
+![parts](images/parts.jpg)
 
 |item           |amount       |description|
 |---            |---          |---|
