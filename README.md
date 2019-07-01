@@ -86,16 +86,17 @@ Use the pinmap: https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299 as reference.
 The Order in which the files are copied onto the microSD card defines which button they are assigned to. i.e. the first file is Segement 1.
 
 ## Instructions
+To prepare the PCB disconnect 7 lines on as show here:
 
 ![musikkiste](images/IMG_0713.JPG)
 
+Place the pin headers: 
 ![musikkiste](images/IMG_0714.JPG)
 
+Solder pin headers:
 ![musikkiste](images/IMG_0722.JPG)
 
-To prepare the PCB disconnect 7 lines on as show here (as seen from above).
 
-![pcb](images/musikkiste_pcbOnly_Steckplatine.png)
 
 PCB with all parts soldered in (as seen from above).
 ![pcb](images/musikkiste_pcbSolder_Steckplatine.png)
