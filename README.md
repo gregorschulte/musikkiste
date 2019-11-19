@@ -38,6 +38,9 @@ As with the pin headers, not all resistors are needed. Just for expandability th
 ## Plug in Module
 Plug in with the text readable, tf-slot facing south.
 
+## Power supply
+Finding the right Power supply was not easy. Three AAA Batterie do the job, but are slowly drained by the modules standby curtent (~20mA). Using a usb power bank seemed to be logical. Unfortunately most power auto power off if the load is not above a certain limit. The module draws about 100 mA while playing. Fortunately some power banks do have a lower limit and stay ON while playing. 
+
 ## Power cable assembly
 NN
 
@@ -109,4 +112,6 @@ PCB with the mp3 module plugged in and external components (as seen from above).
 - wire cutter
 - utility knive
 - drill 
+
+
 
