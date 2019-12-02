@@ -17,7 +17,7 @@ Volume adjustments are done with the potentiometer. It is possible to use the bu
 |speaker        |1            |3 watt speaker for arduino / raspberry pi           |
 |resistors      |2 each       |200k, 100k, 51k, 33k, 24k, 15k, 9.1k, 6.2k, 3k      |
 |power source   |1            |usb powerbank or 4.5V battery compartment           |
-|potentiometer  |1            |1OO Ohm linear                                      |
+|potentiometer  |1            |100 Ohm linear                                      |
 |housing        |1            |any box                                             |
 |jumperwires    |20           |dupond 1pin female for buttons / powersource / potentiometer                     |
 |copper wire    |1            |for ground connection between the buttons           |
@@ -40,7 +40,7 @@ As with the pin headers, not all resistors are needed. Just for expandability th
 Plug in with the text readable, tf-slot facing south.
 
 ## Power supply
-Finding the right Power supply was not easy. Three AAA Batterie do the job, but are slowly drained by the modules standby curtent (~20mA). Using a usb power bank seemed to be logical. Unfortunately most power auto power off if the load is not above a certain limit. The module draws about 100 mA while playing. Fortunately some power banks do have a lower limit and stay ON while playing. 
+Finding the right Power supply was not easy. Three AAA Batterie do the job, but are slowly drained by the modules standby curtent (~20mA). Using a usb power bank seemed to be logical. Unfortunately most power auto power off if the load is not above a certain limit. The module draws about 100 mA while playing. Fortunately some power banks do have a lower limit and stay ON while playing. I had good results with cheap power banks that have no button. One hat a MP3401A chipset. 
 
 ## Power cable assembly
 NN
@@ -49,8 +49,8 @@ NN
 NN
 
 ## Plug in cables
-- Power cable assembly into VCC
-- Power cable assembly GND into GND on the left
+- Power cable assembly VCC (red) into VCC
+- Power cable assembly GND (black) into GND on the left
 - Speaker assembly red into SPK_1
 - Speaker assembly black into SPK_2
 
@@ -62,7 +62,7 @@ NN
 |NC                   |DAC_R    |MODULE   |ADKEY_2  |Button # 05              |
 |NC                   |DAC_l    |MODULE   |ADKEY_1  |Button # 01              |
 |Speaker cable red    |SPK_1    |MODULE   |IO_2     |NC                       |
-|Power cable red      |GND      |MODULE   |GND      |Butten cable black       |
+|Power cable red      |GND      |MODULE   |GND      |Button cable black       |
 |Speaker cable black  |SPK_2    |MODULE   |IO_1     |NC                       |
 
 |ADKEY #              |Resitor    |Button #   |
