@@ -46,14 +46,14 @@ Finding the right Power supply was not easy. Three AAA Batterie do the job, but 
 ![musikkiste](images/power_cable_assembly.jpg)
 
 ## Speaker cable assembly
-![musikkiste](images/speaker_cable_assembly.jpg)
+![musikkiste](images/speakrer_cable_assembly.jpg)
 
 ## Plug in cables
 - Power cable assembly VCC (red) into VCC
 - Power cable assembly GND (black) into GND on the left
 - Speaker assembly red into SPK_1
 - Speaker assembly black into SPK_2
-![musikkiste](images/pushbutton_assembly.jpg)
+![musikkiste](images/pusch_button_assembly.jpg)
 ![musikkiste](images/testrun.jpg)
 
 |Cable                |Pin      |MODULE   |PIN      |Cable                    |
