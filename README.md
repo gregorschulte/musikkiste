@@ -43,16 +43,18 @@ Plug in with the text readable, tf-slot facing south.
 Finding the right Power supply was not easy. Three AAA Batterie do the job, but are slowly drained by the modules standby curtent (~20mA). Using a usb power bank seemed to be logical. Unfortunately most power auto power off if the load is not above a certain limit. The module draws about 100 mA while playing. Fortunately some power banks do have a lower limit and stay ON while playing. I had good results with cheap power banks that have no button. One hat a MP3401A chipset. 
 
 ## Power cable assembly
-NN
+![musikkiste](images/power_cable_assembly.jpg)
 
 ## Speaker cable assembly
-NN
+![musikkiste](images/speaker_cable_assembly.jpg)
 
 ## Plug in cables
 - Power cable assembly VCC (red) into VCC
 - Power cable assembly GND (black) into GND on the left
 - Speaker assembly red into SPK_1
 - Speaker assembly black into SPK_2
+![musikkiste](images/pushbutton_assembly.jpg)
+![musikkiste](images/testrun.jpg)
 
 |Cable                |Pin      |MODULE   |PIN      |Cable                    |
 |---                  |---      |---      |---      |---                      |
