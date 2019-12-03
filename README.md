@@ -10,7 +10,7 @@ Volume adjustments are done with a potentiometer. It is possible to use the prev
 
 ## Parts
 ![parts](images/parts.jpg)
-
+### Partlist
 |item           |amount       |description|
 |---            |---          |---|
 |mp3 module     |1            |https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299  |
