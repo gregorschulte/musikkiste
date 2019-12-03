@@ -3,7 +3,7 @@ diy mp3 player for kids
 
 ![musikkiste](images/musikkiste.jpg)
 ## Overview
-This is a simple diy mp3 player for kids. Is is based on the [DFrobot Mp3 Mini](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299) module wich has everything onboard. No programming required. It is a very basic build. If all parts are available it should not take longer than an afternoon to build. 
+This is a simple diy mp3 player for kids. Is is based on the [DFPlayer Mini Mp3](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299) module by DFrobot wich has everything onboard. No programming required. It is a very basic build. If all parts are available it should not take longer than an afternoon to build. 
 
 Volume adjustments are done with the potentiometer. It is possible to use the buttons on the mp3 Module. I will max the volume after powerloss though. 
 
@@ -73,7 +73,6 @@ Finding the right Power supply was not easy. Three AAA Batterie do the job, but 
 |1                    |9.1k       |04         |
 |1                    |6.2k       |03         |
 |1                    |3k         |02         |
-|1                    |0k (none)  |01         |
 |2                    |200k       |14         |
 |2                    |100k       |13         |
 |2                    |51k        |12         |
@@ -83,7 +82,7 @@ Finding the right Power supply was not easy. Three AAA Batterie do the job, but 
 |2                    |9.1k       |08         |
 |2                    |6.2k       |07         |
 |2                    |3k         |06         |
-|2                    |0k (none)  |05         |
+
 
 
 
