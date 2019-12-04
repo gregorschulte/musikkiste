@@ -18,13 +18,12 @@ Volume adjustments are done with a potentiometer. It is possible to use the prev
 |resistors      |2 each       |200k, 100k, 51k, 33k, 24k, 15k, 9.1k, 6.2k, 3k      |
 |power source   |1            |usb powerbank or 4.5V battery compartment           |
 |potentiometer  |1            |100 Ohm linear                                      |
-|housing        |1            |any box                                             |
-|jumperwires    |20           |dupond 1pin female for buttons / powersource / potentiometer                     |
+|jumperwires    |~25          |dupond 1pin female for buttons / powersource / potentiometer |
 |push buttons   |1 - 17       |depending on how many songs and functions you want to use |
 |copper wire    |1            |for ground connection between the buttons           |
 |pin header     |2            |1 x 10  for buttons                                 |
-|pin header     |2            |1 X 8 male for mp3 Module out                       |
-|pin header     |2            |1 x 8 female for mp3 Module (optional)              |
+|pin header     |2            |1 X 8 male for mp3 module out                       |
+|pin header     |2            |1 x 8 female for mp3 module (optional)              |
 |microSD card   |1            |fat16/fat32 up to 32GB                              |
 |box            |1            |any box will do, wood, 3dprinted,...                |
 
@@ -51,13 +50,13 @@ Finding the right Power supply was not easy. Three AAA Batterie do the job, but 
 
 ## Push button assembly
 With push buttons you can access a maximum of 14 Songs, usefull control keys are play/pause, next/volume up , previous/volume down. You can add 'hidden tracks' by having more songs than buttons. These can be accessed via the 'next' button.
+![push button assembly](images/pusch_button_assembly.jpg)
 
 ## Plug in cables
 - Power cable assembly VCC (red) into VCC
 - Power cable assembly GND (black) into GND on the left
 - Speaker assembly red into SPK_1
 - Speaker assembly black into SPK_2
-![push button assembly](images/pusch_button_assembly.jpg)
 ![testrun](images/testrun.jpg)
 
 |Cable                |Pin      |MODULE   |PIN      |Cable                    |
