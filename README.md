@@ -20,6 +20,7 @@ Volume adjustments are done with a potentiometer. It is possible to use the prev
 |potentiometer  |1            |100 Ohm linear                                      |
 |housing        |1            |any box                                             |
 |jumperwires    |20           |dupond 1pin female for buttons / powersource / potentiometer                     |
+|push buttons   |1 - 17       |depending on how many songs and functions you want to use |
 |copper wire    |1            |for ground connection between the buttons           |
 |pin header     |2            |1 x 10  for buttons                                 |
 |pin header     |2            |1 X 8 male for mp3 Module out                       |
@@ -28,7 +29,7 @@ Volume adjustments are done with a potentiometer. It is possible to use the prev
 |box            |1            |any box will do, wood, 3dprinted,...                |
 
 ## Soldering
-The pin headers for the mp3 module are not really needed, but for some reason i like the idea of beeing able to replace it without soldering. 
+The pin headers for the mp3 module are not really needed. You can just solder ist right onto the pcb. But for some reason i like the idea of beeing able to replace it without soldering. 
 
 ### Pin headers
 Not all output pins of the mp3 module are used in this build. But it is just more convinient to solder on strip of pin headers. 
@@ -47,6 +48,9 @@ Finding the right Power supply was not easy. Three AAA Batterie do the job, but 
 
 ## Speaker cable assembly
 ![speaker cable assembly](images/speakrer_cable_assembly.jpg)
+
+## Push button assembly
+With push buttons you can access a maximum of 14 Songs, usefull control keys are play/pause, next/volume up , previous/volume down. You can add 'hidden tracks' by having more songs than buttons. These can be accessed via the 'next' button.
 
 ## Plug in cables
 - Power cable assembly VCC (red) into VCC
