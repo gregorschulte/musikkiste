@@ -122,7 +122,9 @@ PCB with the mp3 module plugged in and external components (as seen from above).
 
 ## Similar Projects
 https://github.com/ghmartin77/KidsMP3Player + atiny
+
 https://github.com/xfjx/TonUINO + rfid
+
 http://www.weimars.net/?p=297 
 
 
